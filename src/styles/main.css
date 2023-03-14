@@ -1,0 +1,13 @@
+@import './normalize.css';
+@import './header.css';
+@import './variables.css';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&display=swap');
+
+
+:root{
+  --active-text: #FF5151;
+}
+a {
+  color: var(--active-text);
+}
